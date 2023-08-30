@@ -1,0 +1,8 @@
+Option;FF36393F;FF40444B;FFF88863;FF787878;FF787878;
+Model3D;9;2;8;7;name;C:\Users\Administrateur\Documents\Processing\saves\VisUI (test)\VisUI\Belisama_wavefront.obj;5.0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;x;x;x;x;x;x;0.0;0.0;0.0;0.0;23.0;0.0;75.0;-35.0;75.0;0.0;0.0;0.0;0.0;1.0;0.0;
+Graph;0;0;5;3;altitude;30.0;true;1;0;0;0;x;FFF88863;0;0;0;x;FF5E92FF;0;0;0;x;FF32B955;0;0;0;x;FFFFFF59;
+Graph;0;3;3;2;acceleration;30.0;true;3;0;0;0;x;FFFF0000;0;0;0;x+120;FF00FF00;0;0;0;x+230;FF0000FF;0;0;0;x;FFFFFF59;
+Graph;0;5;3;2;rotation;30.0;true;3;0;0;0;x;FFFF0000;0;0;0;x+220;FF00FF00;0;0;0;x+400;FF0000FF;0;0;0;x;FFFFFF59;
+Bar;3;3;2;4;batterie;FFFFE55E;0.0;100.0;0;0;0;x;
+Graph;5;0;4;3;pression;30.0;false;1;0;0;0;x;FFF88863;0;0;0;x;FF5E92FF;0;0;0;x;FF32B955;0;0;0;x;FFFFFF59;
+Compass;5;3;4;4;name;FFF88863;0;0;0;x;
